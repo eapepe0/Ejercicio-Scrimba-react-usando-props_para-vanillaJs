@@ -1,2 +1,2 @@
 # Ejercicio-Scrimba-react-usando-props_para-vanillaJs
-Created with CodeSandbox
+![screenshot]("https://i.imgur.com/4z9YHvn.png")
